@@ -51,7 +51,7 @@ Let's connect and discuss exciting opportunities together! 🚀
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark)](https://github.com/youngy247)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youngy247&theme=dark)](https://github.com/youngy247)
 
 
 
