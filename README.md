@@ -46,10 +46,10 @@ Feel free to reach out to me through the following channels:
 Let's connect and discuss exciting opportunities together! 🚀
 
 <div style="display: flex;">
-  <div style="flex-basis: 50%;">
+  <div style="flex-basis: 40%;">
     <img src="https://github-readme-stats.vercel.app/api?username=youngy247&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
   </div>
-  <div style="flex-basis: 50%;">
+  <div style="flex-basis: 40%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngy247&layout=compact&theme=dark" alt="Top Languages"  />
   </div>
 </div>
