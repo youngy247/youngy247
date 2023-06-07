@@ -45,10 +45,14 @@ Feel free to reach out to me through the following channels:
 
 Let's connect and discuss exciting opportunities together! 🚀
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youngy247&count_private=true&show_icons=true&theme=dark)](https://github.com/your_username)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=youngy247&count_private=true&show_icons=true&theme=dark" align="left" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngy247&layout=compact&theme=dark" align="right" alt="Top Languages" width="400"/>
+</div>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=dark)](https://github.com/youngy247)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youngy247&layout=compact&theme=dark)](https://github.com/your_username)
+
 
 
