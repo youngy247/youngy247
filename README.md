@@ -50,8 +50,9 @@ Let's connect and discuss exciting opportunities together! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngy247&layout=compact&theme=dark" align="right" alt="Top Languages" height="275" width="400"/>
 </div>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=youngy247&theme=dark)](https://github.com/youngy247)
+<div style="width: 700px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngy247&theme=dark" align="center" alt="GitHub Streak" height="175" width="700"/>
+</div>
 
 
 
