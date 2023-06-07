@@ -47,10 +47,10 @@ Let's connect and discuss exciting opportunities together! 🚀
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=youngy247&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" height="275" />
+    <img src="https://github-readme-stats.vercel.app/api?username=youngy247&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngy247&layout=compact&theme=dark" alt="Top Languages" height="275" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngy247&layout=compact&theme=dark" alt="Top Languages"  />
   </div>
 </div>
 
