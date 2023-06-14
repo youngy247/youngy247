@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I recently completed the rigorous Full Stack Track
 - **Back-end Development**: Node.js, Express.js, MongoDB
 - **Database**: SQL, MongoDB
 - **Version Control**: Git, GitHub
-- **Testing and Deployment**: Jest, PHPUnit, Plesk, Netlify, Vercel
+- **Testing and Deployment**: Jest, PHPUnit, Netlify, Render, Azure
 - **Agile Methodologies**: Scrum
 - **Project Management Tools**: Trello
 
