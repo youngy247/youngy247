@@ -1,12 +1,12 @@
-[![IO Academy Bootcamps Full Stack Track Graduate](https://img.shields.io/badge/IO%20Academy-Bootcamps%20Graduate-brightgreen)](https://ioacademy.io/bootcamps)
+[![iO Academy Bootcamps Full Stack Track Graduate](https://img.shields.io/badge/IO%20Academy-Bootcamps%20Graduate-brightgreen)](https://ioacademy.io/bootcamps)
 
 
 
 
 # Hello, I'm Adam Young 👋
-### A Full Stack Developer | IO Academy Bootcamps Graduate
+### A Full Stack Developer | iO Academy Bootcamps Graduate
 
-Welcome to my GitHub profile! I recently completed the rigorous Full Stack Track course at IO Academy Bootcamps, where I honed my skills in front-end and back-end development. With a strong foundation in HTML, CSS, JavaScript, and various modern frameworks, I'm ready to tackle real-world challenges head-on.
+Welcome to my GitHub profile! I recently completed the rigorous Full Stack Track course at iO Academy Bootcamps, where I honed my skills in front-end and back-end development. With a strong foundation in HTML, CSS, JavaScript, and various modern frameworks, I'm ready to tackle real-world challenges head-on.
 
 ## 🌟 Skills and Technologies
 
@@ -28,13 +28,13 @@ During the IO Academy Bootcamps Full Stack Track, I worked on various hands-on p
 
 ## 🎓 Education
 
-- **IO Academy Bootcamps**: Full Stack Track, [IO Academy](https://ioacademy.io/bootcamps)
+- **iO Academy Bootcamps**: Full Stack Track, [iO Academy](https://ioacademy.io/bootcamps)
 - **Cardiff Metropolitan University**: BSc Strength, Conditioning, and Massage
 
 ## 🏆 Certifications
 
-- **Certificate of Completion**: Full Stack Track, IO Academy Bootcamps
-- **Agile Professional Certification**: IO Academy
+- **Certificate of Completion**: Full Stack Track, iO Academy Bootcamps
+- **Agile Professional Certification**: iO Academy
 - **LGV License**: DVLA
 
 ## 📫 Connect with Me
