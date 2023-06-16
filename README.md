@@ -42,7 +42,6 @@ During the IO Academy Bootcamps Full Stack Track, I worked on various hands-on p
 Feel free to reach out to me through the following channels:
 
 - [LinkedIn](https://www.linkedin.com/in/adam-young-684319203)
-- [GitHub](https://github.com/youngy247)
 - [Portfolio Website](https://adamyoungdev.com)
 - Email: adamyoungy678@gmail.com
 
