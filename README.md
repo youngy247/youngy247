@@ -18,14 +18,6 @@ Welcome to my GitHub profile! I recently completed the rigorous Full Stack Track
 - **Agile Methodologies**: Scrum
 - **Project Management Tools**: Trello
 
-<!-- ## 💼 Experience
-
-During the IO Academy Bootcamps Full Stack Track, I worked on various hands-on projects, including:
-
-- **Project 1**: Built a responsive e-commerce website using React and Node.js, implementing features like user authentication, shopping cart functionality, and secure payment gateways.
-- **Project 2**: Developed a RESTful API using Express.js and MongoDB to create a robust backend for a blogging platform, enabling users to create, update, and delete articles.
-- **Project 3**: Collaborated with a team to build a real-time chat application using Socket.io, allowing users to join chat rooms, send messages, and receive instant updates. -->
-
 ## 🎓 Education
 
 - **iO Academy Bootcamps**: Full Stack Track, [iO Academy](https://ioacademy.io/bootcamps)
